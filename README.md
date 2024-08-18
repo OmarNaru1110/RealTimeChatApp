@@ -29,5 +29,5 @@ This is a real-time chat application built using SignalR and ASP.NET Core. The a
 
 ## Demo
 
-Coming Soon!
+<a href="https://youtu.be/VmVxZpVy_kY" > Real-Time Chat Application </a>
 
