@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Computer Science\\Courses\\Backend\\WebSocket\\10. SignalR\\ChatSignalR\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E74F401D-56BC-413A-A544-6691474A40EC}|Client\\Client.csproj|d:\\computer science\\courses\\backend\\websocket\\10. signalr\\chatsignalr\\client\\helper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E74F401D-56BC-413A-A544-6691474A40EC}|Client\\Client.csproj|solutionrelative:client\\helper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E74F401D-56BC-413A-A544-6691474A40EC}|Client\\Client.csproj|d:\\computer science\\courses\\backend\\websocket\\10. signalr\\chatsignalr\\client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E74F401D-56BC-413A-A544-6691474A40EC}|Client\\Client.csproj|solutionrelative:client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E74F401D-56BC-413A-A544-6691474A40EC}|Client\\Client.csproj|d:\\computer science\\courses\\backend\\websocket\\10. signalr\\chatsignalr\\client\\signalr\\groupchat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E74F401D-56BC-413A-A544-6691474A40EC}|Client\\Client.csproj|solutionrelative:client\\signalr\\groupchat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GroupChat.cs",
+              "DocumentMoniker": "D:\\Computer Science\\Courses\\Backend\\WebSocket\\10. SignalR\\ChatSignalR\\Client\\SignalR\\GroupChat.cs",
+              "RelativeDocumentMoniker": "Client\\SignalR\\GroupChat.cs",
+              "ToolTip": "D:\\Computer Science\\Courses\\Backend\\WebSocket\\10. SignalR\\ChatSignalR\\Client\\SignalR\\GroupChat.cs",
+              "RelativeToolTip": "Client\\SignalR\\GroupChat.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-18T06:27:42.744Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Helper.cs",
+              "DocumentMoniker": "D:\\Computer Science\\Courses\\Backend\\WebSocket\\10. SignalR\\ChatSignalR\\Client\\Helper.cs",
+              "RelativeDocumentMoniker": "Client\\Helper.cs",
+              "ToolTip": "D:\\Computer Science\\Courses\\Backend\\WebSocket\\10. SignalR\\ChatSignalR\\Client\\Helper.cs",
+              "RelativeToolTip": "Client\\Helper.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAIAwwDcAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-18T06:17:06.316Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Computer Science\\Courses\\Backend\\WebSocket\\10. SignalR\\ChatSignalR\\Client\\Program.cs",
+              "RelativeDocumentMoniker": "Client\\Program.cs",
+              "ToolTip": "D:\\Computer Science\\Courses\\Backend\\WebSocket\\10. SignalR\\ChatSignalR\\Client\\Program.cs",
+              "RelativeToolTip": "Client\\Program.cs",
+              "ViewState": "AQIAAEQAAAAAAAAAAAAqwEoAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-18T05:29:32.849Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

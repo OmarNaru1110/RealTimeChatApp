@@ -1,0 +1,100 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.7.5 Chrome/126.0.6478.183 Electron/31.3.0 Safari/537.36" version="24.7.5">
+  <diagram name="Page-1" id="S9pNJZ_9UTfIT9k5W0XH">
+    <mxGraphModel dx="913" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="RmG6X6IHTSob1Pd5PJPL-1" value="aadsfsdf" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="80" y="160" width="200" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="RmG6X6IHTSob1Pd5PJPL-2" value="&lt;font color=&quot;#ffffff&quot;&gt;welcome to chat app&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="80" y="160" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RmG6X6IHTSob1Pd5PJPL-4" value="&lt;font color=&quot;#ffffff&quot;&gt;[1] register&lt;/font&gt;&lt;div&gt;&lt;font color=&quot;#ffffff&quot;&gt;[2] sign in&lt;/font&gt;&lt;/div&gt;" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="80" y="190" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RmG6X6IHTSob1Pd5PJPL-5" value="aadsfsdf" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="310" y="160" width="200" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="RmG6X6IHTSob1Pd5PJPL-6" value="&lt;font color=&quot;#ffffff&quot;&gt;username:&lt;/font&gt;&lt;div&gt;&lt;font color=&quot;#ffffff&quot;&gt;|&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#ffffff&quot;&gt;password:&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#ffffff&quot;&gt;|&lt;/font&gt;&lt;/div&gt;" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="310" y="160" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RmG6X6IHTSob1Pd5PJPL-7" value="aadsfsdf" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="550" y="160" width="200" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="RmG6X6IHTSob1Pd5PJPL-8" value="&lt;font color=&quot;#ffffff&quot;&gt;logged in!&lt;/font&gt;" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="550" y="160" width="200" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="RmG6X6IHTSob1Pd5PJPL-9" value="aadsfsdf" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="80" y="400" width="200" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="RmG6X6IHTSob1Pd5PJPL-10" value="&lt;font color=&quot;#ffffff&quot;&gt;[1] friends&lt;/font&gt;&lt;div&gt;&lt;font color=&quot;#ffffff&quot;&gt;[2] chats&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#ffffff&quot;&gt;[3] group chats&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#ffffff&quot;&gt;[4] search for users&lt;/font&gt;&lt;/div&gt;" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="80" y="400" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RmG6X6IHTSob1Pd5PJPL-11" value="aadsfsdf" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="320" y="400" width="200" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="RmG6X6IHTSob1Pd5PJPL-12" value="&lt;font color=&quot;#ffffff&quot;&gt;Friends&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="320" y="400" width="200" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="RmG6X6IHTSob1Pd5PJPL-13" value="&lt;font color=&quot;#ffffff&quot;&gt;[1] Ahmed Saed&lt;/font&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(255, 255, 255);&quot;&gt;[2] __&lt;/span&gt;&lt;font color=&quot;#ffffff&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(255, 255, 255);&quot;&gt;[3] __&lt;/span&gt;&lt;span style=&quot;color: rgb(255, 255, 255);&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(255, 255, 255);&quot;&gt;[4] __&lt;/span&gt;&lt;span style=&quot;color: rgb(255, 255, 255);&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="320" y="420" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RmG6X6IHTSob1Pd5PJPL-14" value="aadsfsdf" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="560" y="400" width="200" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="RmG6X6IHTSob1Pd5PJPL-15" value="&lt;span style=&quot;color: rgb(255, 255, 255); text-align: left;&quot;&gt;Ahmed Saed&#39;s Chat&lt;/span&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="560" y="400" width="200" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="RmG6X6IHTSob1Pd5PJPL-16" value="&lt;span style=&quot;color: rgb(255, 255, 255);&quot;&gt;Ahmed: ----------&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(255, 255, 255);&quot;&gt;Ahmed: --------&lt;/span&gt;&lt;span style=&quot;color: rgb(255, 255, 255);&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#ffffff&quot;&gt;You: ----------&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(255, 255, 255);&quot;&gt;Ahmed: ----&lt;/span&gt;&lt;font color=&quot;#ffffff&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(255, 255, 255);&quot;&gt;|&lt;/span&gt;&lt;/div&gt;" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="560" y="420" width="200" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="RmG6X6IHTSob1Pd5PJPL-17" value="aadsfsdf" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="80" y="630" width="200" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="RmG6X6IHTSob1Pd5PJPL-18" value="&lt;span style=&quot;color: rgb(255, 255, 255); text-align: left;&quot;&gt;Chats&lt;/span&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="80" y="630" width="200" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="RmG6X6IHTSob1Pd5PJPL-19" value="&lt;font color=&quot;#ffffff&quot;&gt;[1] Ahmed Saed&lt;/font&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(255, 255, 255);&quot;&gt;[2] __&lt;/span&gt;&lt;/div&gt;" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="80" y="650" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="RmG6X6IHTSob1Pd5PJPL-20" value="aadsfsdf" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="320" y="630" width="200" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="RmG6X6IHTSob1Pd5PJPL-21" value="&lt;span style=&quot;color: rgb(255, 255, 255); text-align: left;&quot;&gt;Group Chats&lt;/span&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="320" y="630" width="200" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="RmG6X6IHTSob1Pd5PJPL-22" value="&lt;font color=&quot;#ffffff&quot;&gt;[1] bug squash gang&lt;/font&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(255, 255, 255);&quot;&gt;[2] __&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(255, 255, 255);&quot;&gt;[0] create group chat&lt;/span&gt;&lt;/div&gt;" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="320" y="650" width="200" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="RmG6X6IHTSob1Pd5PJPL-23" value="aadsfsdf" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="560" y="630" width="200" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="RmG6X6IHTSob1Pd5PJPL-24" value="&lt;span style=&quot;color: rgb(255, 255, 255); text-align: left;&quot;&gt;Create Group Chat&lt;/span&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="560" y="630" width="200" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="RmG6X6IHTSob1Pd5PJPL-25" value="&lt;font color=&quot;#ffffff&quot;&gt;Name:&lt;/font&gt;&lt;div&gt;&lt;font color=&quot;#ffffff&quot;&gt;|&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#ffffff&quot;&gt;Members separated by comma &#39;,&#39;:&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#ffffff&quot;&gt;Ahmed Saed, Omar Elnaggar, ...&lt;/font&gt;&lt;/div&gt;" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="560" y="650" width="200" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="RmG6X6IHTSob1Pd5PJPL-26" value="sdasd" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="80" y="860" width="200" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="RmG6X6IHTSob1Pd5PJPL-27" value="&lt;span style=&quot;color: rgb(255, 255, 255); text-align: left;&quot;&gt;bug squash gang&lt;/span&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="80" y="860" width="200" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="RmG6X6IHTSob1Pd5PJPL-29" value="&lt;span style=&quot;color: rgb(255, 255, 255);&quot;&gt;Ali: ----------&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(255, 255, 255);&quot;&gt;Omar: --------&lt;/span&gt;&lt;span style=&quot;color: rgb(255, 255, 255);&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#ffffff&quot;&gt;You: ----------&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(255, 255, 255);&quot;&gt;Ahmed: ----&lt;/span&gt;&lt;font color=&quot;#ffffff&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(255, 255, 255);&quot;&gt;|&lt;/span&gt;&lt;/div&gt;" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="80" y="890" width="200" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="RmG6X6IHTSob1Pd5PJPL-30" value="sdasd" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="320" y="860" width="200" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="RmG6X6IHTSob1Pd5PJPL-31" value="&lt;span style=&quot;color: rgb(255, 255, 255); text-align: left;&quot;&gt;search for user&lt;/span&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="320" y="860" width="200" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="RmG6X6IHTSob1Pd5PJPL-32" value="&lt;font color=&quot;#ffffff&quot;&gt;user:&lt;/font&gt;&lt;div&gt;&lt;font color=&quot;#ffffff&quot;&gt;|&lt;/font&gt;&lt;/div&gt;" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="320" y="890" width="200" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
